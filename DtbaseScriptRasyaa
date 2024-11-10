@@ -1,14 +1,13 @@
 {
-  "keys": [
+  "allowedIps": ["167.172.238.44", "172.18.0.5", "172.18.0.28","172.18.0.40"],
+  "users": [
     {
-      "key": "rasyagelo",
-      "numbers": [
-        "62877533994809",
-        "6285727264161",
-        "628112233445",
-        "628988106426",
-        "628998877665"
-      ]
+      "username": "rasya",
+      "password": "RasyaGnteng"
+    },
+    {
+      "username": "naufal",
+      "password": "RasyaGnteng"
     }
   ]
 }
